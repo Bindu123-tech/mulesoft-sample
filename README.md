@@ -1,2 +1,1 @@
-# mulesoft-sample
-mulesoft-sample
+sample mule project
